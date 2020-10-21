@@ -59,3 +59,5 @@ Sum across the secondary diagonal: 4 + 5 + 10 = 19
 Difference: |4 - 19| = 15
 
 Note: |x| is the absolute value of x
+
+### Link: https://www.hackerrank.com/challenges/diagonal-difference/problem
