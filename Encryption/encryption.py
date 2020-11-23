@@ -35,9 +35,9 @@ def transpose(matrix):
 
 
 if __name__ == "__main__":
-    s = "if man was meant to stay on the ground god would have given us roots"
-    s = "haveaniceday"
-    s = "feedthedog"
+    #s = "if man was meant to stay on the ground god would have given us roots"
+    #s = "haveaniceday"
+    #s = "feedthedog"
     s = "chillout"
     s_1 = encryption(s)
     print(s_1)
